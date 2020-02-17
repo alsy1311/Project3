@@ -6,7 +6,6 @@ void main() {
 
 
 	std::cout << "blllla!";
-	std::cout << "bla222222";
 
 
 
